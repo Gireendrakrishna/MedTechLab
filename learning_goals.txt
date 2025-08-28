@@ -1,0 +1,3 @@
+1. To Upload and manage my own project to github and master git.
+1. To setup an ideal and customised Develipment envinorment.
+2. To develop a reliable backend by learning to manage and optimise API keys and requests.
